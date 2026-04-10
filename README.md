@@ -1,5 +1,5 @@
 # Project-QRNG
-Project title : Project-QRNG, Name : Kristian Dwicandra
+Project title : Project-QRNG, Name : KDC
 
 Results or outputs
 <img width="571" height="455" alt="17619405817688303139015657474967" src="https://github.com/user-attachments/assets/b49fc7a5-2888-4b47-bda4-807fae7b83dd" />
